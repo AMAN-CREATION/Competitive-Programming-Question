@@ -2,7 +2,7 @@
 using namespace std;
 
 int reverse(int n){
-    int ans=0;//insilais
+    int ans=0;//insilais Dont requrired to write initialis everyone knows
     while (n>0)
     {
         int lastdigit = n%10;
